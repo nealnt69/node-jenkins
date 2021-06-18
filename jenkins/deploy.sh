@@ -1,3 +1,3 @@
- npm install
- pm2 start app.js
- pm2 save
+ sudo npm install
+ sudo pm2 start app.js
+ sudo pm2 save
