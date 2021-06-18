@@ -1,2 +1,2 @@
  npm install
- pm2 restart 2
+ pm2 start app.js
